@@ -1,7 +1,5 @@
 Hi! 👋 I'm Suraj, a fourth-year Computer Science student at the University of Waterloo.
 
-**I'm currently seeking internship opportunities for Fall 2021.**
-
 💼 Most recently, I was working on some exciting projects at [Wish](https://www.wish.com) and [OpsLevel](https://www.opslevel.com).
 
 💆 In my spare time, I enjoy playing basketball, cooking (or at least, attempting to) and having a good time with my friends.
